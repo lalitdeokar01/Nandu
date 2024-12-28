@@ -3,6 +3,7 @@ int main()
 {
 
 	printf("Hello nandu");
+	printf("hello intel");
 
 }
 
